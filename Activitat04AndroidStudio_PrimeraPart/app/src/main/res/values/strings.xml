@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Activitat 04-Android Studio_SegonaPart</string>
+    <string name="date">Data</string>
+    <string name="name">Nom</string>
+    <string name="btnHome">Inicia</string>
+    <string name="welcome">Benvingut</string>
+    <string name="numbers1and3">Número del 1 al 3</string>
+    <string name="check">Comprobar</string>
+    <string name="correctNumber">Has encertat el numero!</string>
+    <string name="incorrectNumber">No has acertat el numero</string>
+    <string name="btnBack">Tornar</string>
+    <string name="tvUsuari">Usuari</string>
+    <string name="tvTargetNumber">Numero a encertar</string>
+    <string name="tvInputNumber">Numero introduit</string>
+</resources>
